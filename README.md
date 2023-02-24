@@ -2,7 +2,7 @@
 
 ### Overviw of Project
 The purpose of this project is to create a webpage using HTML, CSS and Javascript that takes a dataset of UFO sightings and puts them into a table that can be filtered by the user.
-The first rendition we made could only be filtered by the date and was using a filter button, the final version can filter by any of date, cuty, state, country and shape at the same time.
+The first rendition we made could only be filtered by the date and was using a filter button, the final version can filter by any of date, city, state, country and shape at the same time.
 
 ### Results
 The result of our project is a professional looking website that has an efficient search tool for the data in the table.
